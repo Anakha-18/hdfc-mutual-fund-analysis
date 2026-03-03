@@ -34,7 +34,7 @@ Which fund delivers the best returns? How does risk vary? How does a monthly SIP
 - Tracked units purchased, cumulative units and portfolio value every month
 - Compared total invested vs final portfolio value across all funds
 
-##3. NAV Trend Analysis
+## 3. NAV Trend Analysis
 - Visualized 13 years of daily NAV movement for all 4 funds
 - Identified key market events (COVID crash 2020, recovery 2021)
 
