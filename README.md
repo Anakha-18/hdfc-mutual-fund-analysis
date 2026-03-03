@@ -91,5 +91,5 @@ The dashboard contains 3 pages:
 ---
 ## Disclaimer
 
-This project is for educational purposes only and is not fianancial advice.
+This project is for educational purposes only and is not financial advice.
   
